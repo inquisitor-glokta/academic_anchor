@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=ico.ico --add-data "ico.ico;." app.py
