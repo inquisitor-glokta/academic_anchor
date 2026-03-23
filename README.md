@@ -51,6 +51,23 @@ User Input → SQLite DB (local)
 
 ---
 
+## 🗂 Project File Structure
+
+```
+AcademicAnchor/
+├── LICENSE # GPLv3 license file
+├── README.md # This readme with instructions and project info
+├── academic_anchor.py # Main portable application source code
+├── academic_anchor_installer.py# Application for PyInstaller 
+├── create_installer.iss # Inno Setup script for installer creation
+├── gui.png # Screenshot of the app UI
+├── ico.ico # Application icon
+├── pyinstaller.txt # Notes for PyInstaller packaging
+└── requirements.txt # Python module dependencies
+```
+
+---
+
 ## 📷 Application Screenshots
 
 ![AcademicAnchor UI](gui.png)
