@@ -1,4 +1,4 @@
-# 📚 AcademicAnchor  
+# 📚 Academic Anchor  
 ### Version 1.0 – Local • Personal Knowledge Management  
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ---
 
-## 🛡 About AcademicAnchor
+## 🛡 About Academic Anchor
 
-**AcademicAnchor** is a **desktop personal knowledge management (PKM) tool** that allows you to securely store, organize, and manage notes, articles, research papers, and academic resources **locally on your machine**.  
+**Academic Anchor** is a **desktop personal knowledge management (PKM) tool** that allows you to securely store, organize, and manage notes, articles, research papers, and academic resources **locally on your machine**.  
 
 It uses **SQLite** for local storage, ensuring your data is always on your device, and provides a **clean and modern PyQt6 interface** for quick access, filtering, and tagging.
 
@@ -87,7 +87,7 @@ AcademicAnchor/
 
 ## ⚙ How to Use
 
-1. Open **AcademicAnchor**.  
+1. Open **Academic Anchor**.  
 2. Use the **Entry Form** to add new notes or resources.  
 3. Select existing entries from the **List** to view or edit.  
 4. Use **Search** or **Tag Filter** to quickly locate entries.  
@@ -113,4 +113,4 @@ You may use, modify, and redistribute it under the same license.
 
 ---
 
-## 📚 AcademicAnchor – Organize, Search, Remember.
+## 📚 Academic Anchor – Organize, Search, Remember.
