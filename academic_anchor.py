@@ -89,7 +89,7 @@ class MainWindow(QMainWindow):
 
         self.setWindowIcon(QIcon("ico.ico"))
 
-        self.setWindowTitle("AcademicAnchor")
+        self.setWindowTitle("Academic Anchor")
         self.resize(1100, 750)
 
         init_db()
