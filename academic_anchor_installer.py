@@ -15,7 +15,7 @@ from PyQt6.QtGui import QColor, QIcon
 
 # ---------------- APP STRUCTURE ---------------- #
 
-APP_NAME = "AcademicAnchor"
+APP_NAME = "Academic Anchor"
 
 def resource_path(relative_path):
     """PyInstaller safe path for resources"""
