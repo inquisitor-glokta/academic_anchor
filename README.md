@@ -13,7 +13,7 @@
 
 ---
 
-## 🛡 About AcademicAnchor
+## 🛡 About Academic Anchor
 
 **Academic Anchor** is a **desktop personal knowledge management (PKM) tool** that allows you to securely store, organize, and manage notes, articles, research papers, and academic resources **locally on your machine**.  
 
